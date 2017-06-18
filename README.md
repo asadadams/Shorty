@@ -5,8 +5,8 @@ shorty is a PHP URL shortner. This program was designed to help shorten long URL
 
 ## Overview
 This is a progam is made/designed to shorten long URLs into short urls. This program is divided into two parts:
-* **part to shorten long URLs into shorter URLs**
-* **part to provide to original URLs from shorter ones** 
+* **part to shorten long URL into shorter URL**
+* **part to provide the original URLs from shorten URL** 
 
 ## Getting Started
    You will need a server running APACHE and MYSQL database. Configure database in the *config.php*
