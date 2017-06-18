@@ -98,4 +98,4 @@ Want to say hi? Will be happy to hear from you
 * [Facebbok](http://www.facebook.com/asad.adams)
 * [Instagram](http://www.instagram.com/asadadams)
 * [Linkedin](http://www.linkedin.com/in/asad-adams-7548a4104/)
-* [Mail](clarkpeace.adams@gmail.com)
+* [Mail](mailto:clarkpeace.adams@gmail.com)
