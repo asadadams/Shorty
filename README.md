@@ -1,4 +1,4 @@
-![Shorty](https://github.com/asadadams/Shorty/logo.png)
+![Shorty](https://github.com/asadadams/Shorty/blob/master/logo.png)
 
 # Shorty v 0.0.1
 shorty is a PHP URL shortner. This program was designed to help shorten long URLs to shorter ones . Shorty is built in PHP. 
@@ -49,7 +49,7 @@ Shorty works by first initializing the program from a function *init* in the Sho
       echo $shortner->get_short_url($url); // Showing options
 
 ```
-###Getting original URL
+### Getting original URL
 Getting shortend url in a get request 
 
 ```
@@ -92,7 +92,7 @@ If you are a developer feel free to contribute the project by providing bug fixe
 Will 
 *NB: Shorty is a program i wrote out of boredom on a sunday afternoon in a few minutes, :laughing: :stuck_out_tongue_winking_eye: (needed something to do). So will like it if y'all can contribute and add more features*
 
-##Me
+## Me
 Want to say hi? Will be happy to hear from you
 * [Twitter](http:///www.twitter.com/asadadams)
 * [Facebbok](http://www.facebook.com/asad.adams)
