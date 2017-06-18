@@ -15,7 +15,7 @@ This is a progam is made/designed to shorten long URLs into short urls. This pro
          define("DB_HOST","localhost"); //Databse host name 
          define("DB_USERNAME","root"); // Database username , mostly root on localhost 
          define("DB_PASSWORD","");  //Databse password
-         define("DB_NAME","shortit");  //Database name 
+         define("DB_NAME","shorty");  //Database name 
 
    ```
 
