@@ -1,7 +1,7 @@
 ![Shorty](https://github.com/asadadams/Shorty/blob/master/logo.png)
 
 # Shorty v 0.0.1
-shorty is a URL shortner. This program was designed to help shorten long URL. Shorty is written in PHP. 
+Shorty is a URL shortner. This program was designed to help shorten long URL. Shorty is written in PHP. 
 ## Overview
 This is a progam is made/designed to shorten long URLs into short urls. This program is divided into two parts:
 * **part to shorten long URL into shorter URL**
@@ -87,7 +87,7 @@ Shorty have these functions
 
 
 ## Developers
-If you are a developer feel free to contribute the project by providing bug fixes, new ideas and suggestions. 
+If you are a developer feel free to contribute to the project by providing bug fixes, new ideas and suggestions. 
 Will 
 *NB: Shorty is a program i wrote out of boredom on a sunday afternoon in a few minutes, :laughing: :stuck_out_tongue_winking_eye: (needed something to do). So will like it if y'all can contribute and add more features*
 
