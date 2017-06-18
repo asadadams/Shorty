@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^short$ index.php [NC]
+RewriteRule ^decode/([a-zA-Z0-9\.]+)$ decode.php?surl=$1 [NC]
+
